@@ -4,4 +4,4 @@
 
 <hr/>
 
-[CF Round 863](My-Codeforces-Rounds-Solutions/Codeforces-Round-863/)
+[CF Round 863](Codeforces-Round-863/)
