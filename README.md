@@ -4,6 +4,5 @@
 
 <hr/>
 
-[CF Round 862](Codeforces-Round-862/)
-<br/>
-[CF Round 863](Codeforces-Round-863/)
+ - [CF Round 862](Codeforces-Round-862/)
+ - [CF Round 863](Codeforces-Round-863/)
