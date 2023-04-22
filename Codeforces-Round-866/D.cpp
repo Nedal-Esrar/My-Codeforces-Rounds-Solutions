@@ -33,9 +33,7 @@ using oset = tree<T, null_type, S, rb_tree_tag, tree_order_statistics_node_updat
 const ll MOD = 1e9 + 7, OO = 1e15;
 const double PI = 4 * atan(1), EPS = 1e-7;
 
-bool check(multiset<pair<ll, ll>>& st1, multiset<pair<ll, ll>>& st2, ll h, ll w) {
-  multiset<pair<ll, ll>> s1 = st1, s2 = st2;
-
+bool check(multiset<pair<ll, ll>>& s1, multiset<pair<ll, ll>>& s2, ll h, ll w) {
   bool nobrk = 1;
 
   while (nobrk) {
