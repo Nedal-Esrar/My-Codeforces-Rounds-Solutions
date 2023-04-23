@@ -64,7 +64,7 @@ bool check(multiset<pair<ll, ll>> s1, multiset<pair<ll, ll>> s2, ll h, ll w) {
     }
   }
 
-  return sz(s1) == 0;
+  return s1.empty();
 }
 
 int main() {
