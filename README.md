@@ -9,4 +9,5 @@
  - [CF Round 866](Codeforces-Round-866/)
  - [CF Round 867](Codeforces-Round-867/)
  - [CF Round 869](Codeforces-Round-869/)
+ - [CF Round 875](Codeforces-Round-875/)
  - [Edu. CF Round 147](Educational-Codeforces-Round-147/)
